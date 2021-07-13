@@ -22,9 +22,9 @@ indo de 0x00 até 0xBB e procurei os caracteres que não consegui exibir na tela
 } => 7c 
 { => 7d 
 " => 7e 
-KEY_RIGHT_ALT + w => ?
-KEY_RIGHT_ALT + 0x71 => /
-~ => "
+? => KEY_RIGHT_ALT + w 
+/ => KEY_RIGHT_ALT + 0x71
+" => ~
 ```
 
 
