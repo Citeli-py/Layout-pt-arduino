@@ -7,7 +7,7 @@ indo de 0x00 até 0xBB e procurei os caracteres que não consegui exibir na tela
 
 # Caracteres especiais printaveis
 
-^ => 22
+^ => 22 \n
 ~ => 27
 ; => 2f 
 Ç => 3a
