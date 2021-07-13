@@ -38,5 +38,10 @@ print_pt("Sua string");
 ```
 Dessa forma, você conseguirá usar alguns caracteres que não seriam printados com Keyboard.print();
 
+## Conclusões finais
+
+Por mais que boa parte do problema foi solucionado, ele ainda tem falhas. Pelo o que eu analisei, ainda falta o caracter \, se 
+alguém conseguir solucionar para os caracteres que faltam, por favor faça um comentário nesse repositório.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
