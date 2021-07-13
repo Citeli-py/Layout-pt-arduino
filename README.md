@@ -28,7 +28,7 @@ KEY_RIGHT_ALT + 0x71 => /
 ```
 
 
-## Contributing
+## Contribuições
 Pull requests são sempre bem-vindas, mas para grandes mudanças no código, primeiro abra uma issue para discutir-mos as mudanças.
 
 ## License
