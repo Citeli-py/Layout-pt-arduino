@@ -31,5 +31,12 @@ KEY_RIGHT_ALT + 0x71 => /
 ## Contribuições
 Pull requests são sempre bem-vindas, mas para grandes mudanças no código, primeiro abra uma issue para discutir-mos as mudanças.
 
+## Como usar
+Para utilizar o código, basta copiar a função e cola-lá no seu programa, para apertar uma string com caracteres especiais use
+```C
+print_pt("Sua string");
+```
+Dessa forma, você conseguirá usar alguns caracteres que não seriam printados com Keyboard.print();
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
