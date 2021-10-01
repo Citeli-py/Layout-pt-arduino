@@ -8,20 +8,20 @@ indo de 0x00 até 0xBB e procurei os caracteres que não consegui exibir na tela
 # Caracteres especiais printaveis
 
 ```bash
-22 => ^
-27 => ~ 
-2f => ; 
-3a => Ç
-3b => ç
-3f => : 
-5b => `
-5c => ] 
-5d => [
-5e => ¨
-60 => ' 
-7c => }
-7d => { 
-7e => " 
+0x22 => ^
+0x27 => ~ 
+0x2f => ; 
+0x3a => Ç
+0x3b => ç
+0x3f => : 
+0x5b => `
+0x5c => ] 
+0x5d => [
+0x5e => ¨
+0x60 => ' 
+0x7c => }
+0x7d => { 
+0x7e => " 
 KEY_RIGHT_ALT + w => ?
 KEY_RIGHT_ALT + 0x71 => /
 ~ => "
