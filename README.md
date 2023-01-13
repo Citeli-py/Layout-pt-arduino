@@ -32,7 +32,11 @@ KEY_RIGHT_ALT + 0x71 => /
 Pull requests são sempre bem-vindas, mas para grandes mudanças no código, primeiro abra uma issue para discutir-mos as mudanças.
 
 ## Como usar
-Para utilizar o código, basta copiar a função e cola-lá no seu programa, para apertar uma string com caracteres especiais use
+Para utilizar o código, basta colocar o header na pasta do seu projeto e incluir:
+```C
+#include "print_pt.h"
+```
+Para digitar uma string:
 ```C
 print_pt("Sua string");
 ```
