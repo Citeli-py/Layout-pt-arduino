@@ -1,4 +1,4 @@
-# Layout-pt-para-arduino
+# Layout pt-br para arduino
 Nesse projeto mostrarei uma maneira de representar caracteres do teclado em português para o Arduino pro micro.
 
 # Motivação
